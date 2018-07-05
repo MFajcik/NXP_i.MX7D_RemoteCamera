@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "774897020714",
+    "firebase_url": "https://atcamera-2a181.firebaseio.com",
+    "project_id": "atcamera-2a181",
+    "storage_bucket": "atcamera-2a181.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774897020714:android:4b6e1f1bcf473209",
+        "android_client_info": {
+          "package_name": "camera.com.at"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774897020714-th11dalpii2jofajmph04ut09nsas4kl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "camera.com.at",
+            "certificate_hash": "29053c8aecc11ec0cbbd4b2c31a1aa1f8d2d3740"
+          }
+        },
+        {
+          "client_id": "774897020714-92ch9msd3orfiu333qogv1tgp0p22mjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHztbpN1QkU3hjqwiomlQcpvrKmvb9Um8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774897020714-92ch9msd3orfiu333qogv1tgp0p22mjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
